@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ouladFormat"]
 	path = ouladFormat
-	url = https://github.com/cran/ouladFormat
+	url = https://github.com/ehoward1/ouladformat
